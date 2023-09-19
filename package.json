@@ -1,5 +1,6 @@
 {
 	"author": "Lucas Graf",
+	"description": "This is a node project for practice. It is part of the freecodecamp tutorial.",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
