@@ -1,17 +1,21 @@
 {
-	"author": "Lucas Graf",
-	"description": "This is a node project for practice. It is part of the freecodecamp tutorial.",
-
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "author": "Lucas Graf",
+  "description": "This is a node project for practice. It is part of the freecodecamp tutorial.",
+  "keywords": [
+    "freecodecamp",
+    "tutorial",
+    "node-js"
+  ],
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
